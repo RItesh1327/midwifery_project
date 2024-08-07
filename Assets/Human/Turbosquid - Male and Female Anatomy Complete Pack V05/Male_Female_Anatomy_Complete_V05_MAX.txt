@@ -1,0 +1,34 @@
+PLASTICBOY - ANATOMY MODELS V05
+-------------------------------
+
+Model: Male Female Anatomy Complete V05 MAX
+
+Scene Objects: 1966 
+Geometry Objects: 1858 
+
+Lights: 3
+
+Texture Maps: 83
+Location: Male_Female_Anatomy_Complete_V05_MAX folder
+
+Poly count: 823 496
+(Environmental  Sphere not included)
+
+Vertex count: 803 258
+(Environmental  Sphere not included)
+
+Project folder: Male_Female_Anatomy_Complete_V05_MAX
+
+File format: Male_Female_Anatomy_Pack_Complete_V05.max 
+File Size: 237 MB
+Location: Male_Female_Anatomy_Complete_V05_MAX folder
+
+
+Application: Autodesk 3ds Max 2011
+
+Export version: 3ds Max 2011
+
+Axis:  z-up
+
+Model Smoothing options:
+-	 Meshsmooth Modifier is added to all geometry. Switched off to save loading time.

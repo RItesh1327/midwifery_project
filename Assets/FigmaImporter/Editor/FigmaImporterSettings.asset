@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad400953b60bd4f46ad225a4161e2df2, type: 3}
+  m_Name: FigmaImporterSettings
+  m_EditorClassIdentifier: 
+  clientCode: 6CoLXelOSKXr67zcyHLf2NO9D
+  state: 1438136989
+  token: figu_d-sgLD5LMnQv5jBqF58CNWnLVRZMoIijhWCtFl6x
+  url: https://www.figma.com/file/A9prwdkuYl9HeRIK9PTrBe/Midwifery-DSP-1.0-(Copy)?node-id=52%3A1072&t=WIXltwgRvT3qu77J-4
+  rendersPath: FigmaImporter/Renders
